@@ -1,3 +1,36 @@
-theme: jekyll-theme-tactile
-title: Welcome to my Homepage
-description: This is my site
+#
+# This is the configuration file for this site
+#
+# site theme
+#
+theme: jekyll-theme-minimal
+# name of this site (displayed in the header)
+name: Alissa Bader Clark
+#
+# keeping the title tag commented out for now
+# title: this is my site
+#
+# short bio or description (displayed in the header)
+#
+description: Technical and Creative Writer
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+#
+avatar: https://github.com/alissabaderclark/alissabaderclark.github.io/blob/2617ecfbcd1a3339f91e798363f86ce0c52c1987/images/alissa-mad-men.jpeg
+#
+# Footer-links.  Includes an icon in the footer for each username entered
+#
+footer-links:
+  dribbble:
+  email: alissabaderclark@gmail.com
+  facebook:
+  flickr:
+  github: alissabaderclark
+  instagram:
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: notorious_abc
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+

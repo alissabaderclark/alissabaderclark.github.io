@@ -21,7 +21,7 @@ Creative Writing and Media Studies.  3.7 GPA.
 - SharePoint
 - Zendesk Guide (administrator)
 - JIRA
-- Adobe Acrobat 
+- Adobe Acrobat
 - Microsoft Office
 - Oxygen XML
 - HTML
@@ -30,6 +30,8 @@ Creative Writing and Media Studies.  3.7 GPA.
 - Slack
 - Snagit
 - Camtasia
+- Gliffy
+- Visio
 
 **PROFESSIONAL EXPERIENCE**
 **Technical Writer**
@@ -51,7 +53,7 @@ Creative Writing and Media Studies.  3.7 GPA.
 **Oracle America        Location:  Broomfield, CO
 ** Dates of Employment:  January 2012 – June 2015
 **Reason for Departure:  better opportunity
-*** Member of an international team responsible for documenting the Oracle Solaris operating system 
+*** Member of an international team responsible for documenting the Oracle Solaris operating system
 
 - Developed and edited product user manuals.
 - Wrote documentation for software packaging, systems administration, installation, and virtualization technologies.
@@ -141,7 +143,7 @@ Creative Writing and Media Studies.  3.7 GPA.
 **Assistant to the Publisher of the Sciences
 **Columbia University Press       Location:  New York, NY
 **Dates of Employment:  May 1995-June 1998
-**Reason for Departure:  better opportunity 
+**Reason for Departure:  better opportunity
 *****Provided editorial and administrative duties for an academic press
 
 - Supervised manuscripts throughout publishing process – prepared project proposals, contracts, and financial profit-and-loss charts.
@@ -149,3 +151,4 @@ Creative Writing and Media Studies.  3.7 GPA.
 - Ensured projects were delivered on-time and as per budget.
 - Supervised student interns and related staff.
 
+[1]:	mailto:alissabaderclark@gmail.com

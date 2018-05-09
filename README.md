@@ -1,3 +1,3 @@
--## Welcome to GitHub Pages!
+This is my personal webpage with links to my technical writing portfolio. 
 
-You can use the [editor on GitHub](https://github.com/alissabaderclark/alissabaderclark.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site was created through the excellent guidance of [GitHub Pages](https://guides.github.com/features/pages/).

@@ -9,11 +9,13 @@ title: Alissa Bader Clark
 #
 # short bio or description (displayed in the header)
 #
+name: Alissa Bader Clark
 description: Technical and Creative Writer
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #
-avatar: https://github.com/alissabaderclark/alissabaderclark.github.io/blob/2617ecfbcd1a3339f91e798363f86ce0c52c1987/images/alissa-mad-men.jpeg
-#
+#avatar: https://github.com/alissabaderclark/alissabaderclark.github.io/blob/2617ecfbcd1a3339f91e798363f86ce0c52c1987/images/alissa-mad-men.jpeg
+
+{% include footer.html %}
 # Footer-links.  Includes an icon in the footer for each username entered
 #
 footer-links:

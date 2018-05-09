@@ -18,9 +18,7 @@ description: Technical and Creative Writer
 
 # Footer-links.  Includes an icon in the footer for each username entered
 #
-webrick:
-  footers: footer.md
-  
+
   footer-links:
   dribbble:
   email: alissabaderclark@gmail.com

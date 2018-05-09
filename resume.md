@@ -1,31 +1,27 @@
-Alissa Bader Clark
-
-| 634 W Shepperd Avenue | Phone:  720.840.9539 |
-| --- | --- |
-| Littleton, CO 80120 | **alissabaderclark@gmail.com** |
+- **Alissa Bader Clark**
+- **634 W Shepperd Avenue**
+- **Littleton, CO 80120**
+- **720.840.9539**
+- **[alissabaderclark@gmail.com](mailto:alissabaderclark@gmail.com)**
 
 Experienced technical writer with an extensive product, technical, and customer-focused background. Possesses progressive experience in user manual documentation, training materials development, knowledge base deployment, customer and product support, and project and systems management.
 
-EDUCATION
+**EDUCATION**
 
-Graduate Certificate, Engineering Management (Project Management)
-
-University of Colorado / Boulder College of Engineering.
-
+**Graduate Certificate, Engineering Management (Project Management)
+University of Colorado / Boulder College of Engineering.**
 Project Management and Planning Courses.  3.9 GPA.
 
-Bachelor of Arts, Magna cum Laude
-
-Hunter College, City University of New York, NY.
-
+**Bachelor of Arts, Magna cum Laude
+Hunter College, City University of New York, NY.**
 Creative Writing and Media Studies.  3.7 GPA.
 
+**Tools and applications**
+
+| Confluence | SharePoint | ZenDesk Guide/Help Center|
 
 
-Tools and applications
-
-|
-- .Confluence
+- Confluence
  |
 - .SharePoint
  |

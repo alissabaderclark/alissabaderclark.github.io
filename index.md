@@ -1,4 +1,4 @@
-#About Me
+# About Me
 I'm a technical writer based out of Denver, Colorado.
 
 You can see some of my work at the following:

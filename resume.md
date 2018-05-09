@@ -31,11 +31,11 @@ Creative Writing and Media Studies.  3.7 GPA.
 - Snagit
 - Camtasia
 
-**PROFESSIONAL EXPERIENCE
-**Technical Writer
-**T-Mobile / Layer3 TV       Location:  Denver, CO
-**Dates of Employment:  June 2015-April 2018
-***Technical writer for a cable startup.  Worked for CTO and Product Organizations
+**PROFESSIONAL EXPERIENCE**
+**Technical Writer**
+**T-Mobile / Layer3 TV       Location:  Denver, CO**
+**Dates of Employment:  June 2015-April 2018**
+***Technical writer for a cable startup.  Worked for CTO and Product Organizations***
 
 - Developed and designed internal and customer-facing knowledge bases.
 - Designed and developed procedural information structure for customer-facing documentation.

@@ -15,7 +15,7 @@ description: Technical and Creative Writer
 #
 #avatar: https://github.com/alissabaderclark/alissabaderclark.github.io/blob/2617ecfbcd1a3339f91e798363f86ce0c52c1987/images/alissa-mad-men.jpeg
 
-{% include footer.html %}
+{% include footer.md %}
 # Footer-links.  Includes an icon in the footer for each username entered
 #
 footer-links:

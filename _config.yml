@@ -4,11 +4,8 @@
 # site theme
 #
 theme: jekyll-theme-tactile
-# name of this site (displayed in the header)
-name: Alissa Bader Clark
-#
-# keeping the title tag commented out for now
-# title: this is my site
+# title of this site (displayed in the header)
+title: Alissa Bader Clark
 #
 # short bio or description (displayed in the header)
 #

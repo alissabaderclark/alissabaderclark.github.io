@@ -2,18 +2,18 @@
 - **634 W Shepperd Avenue**
 - **Littleton, CO 80120**
 - **720.840.9539**
-- **[alissabaderclark@gmail.com](mailto:alissabaderclark@gmail.com)**
+- **[alissabaderclark@gmail.com][1]**
 
 Experienced technical writer with an extensive product, technical, and customer-focused background. Possesses progressive experience in user manual documentation, training materials development, knowledge base deployment, customer and product support, and project and systems management.
 
 **EDUCATION**
 
-**Graduate Certificate, Engineering Management (Project Management)
-University of Colorado / Boulder College of Engineering.**
+\*\*Graduate Certificate, Engineering Management (Project Management)
+University of Colorado / Boulder College of Engineering.\*\*
 Project Management and Planning Courses.  3.9 GPA.
 
-**Bachelor of Arts, Magna cum Laude
-Hunter College, City University of New York, NY.**
+\*\*Bachelor of Arts, Magna cum Laude
+Hunter College, City University of New York, NY.\*\*
 Creative Writing and Media Studies.  3.7 GPA.
 
 **Tools and applications**
@@ -33,8 +33,9 @@ Creative Writing and Media Studies.  3.7 GPA.
 
 **PROFESSIONAL EXPERIENCE**
 **Technical Writer**
-**T-Mobile / Layer3 TV       Location:  Denver, CO**
+**T-Mobile / Layer3 TV  Location: Denver, CO**
 **Dates of Employment:  June 2015-April 2018**
+**Reason for Departure:  company reorganization
 ***Technical writer for a cable startup.  Worked for CTO and Product Organizations***
 
 - Developed and designed internal and customer-facing knowledge bases.
@@ -47,10 +48,10 @@ Creative Writing and Media Studies.  3.7 GPA.
 
 
 **Technical Writer
-Oracle America        Location:  Broomfield, CO
-Dates of Employment:  January 2012 – June 2015
-Reason for Departure:  better opportunity
-***Member of an international team responsible for documenting the Oracle Solaris operating system 
+**Oracle America        Location:  Broomfield, CO
+** Dates of Employment:  January 2012 – June 2015
+**Reason for Departure:  better opportunity
+*** Member of an international team responsible for documenting the Oracle Solaris operating system 
 
 - Developed and edited product user manuals.
 - Wrote documentation for software packaging, systems administration, installation, and virtualization technologies.
@@ -67,11 +68,11 @@ Reason for Departure:  better opportunity
 
 
 **Technical Support Engineer/Customer Support Representative
-Oracle America        Location:  Broomfield, CO
-Dates of Employment:  October 2006– January 2012
-Reason for Departure:  department restructure / better opportunity**
+**Oracle America        Location:  Broomfield, CO
+**Dates of Employment:  October 2006– January 2012
+**Reason for Departure:  department restructure / better opportunity\*\*
 ***(Note: This position was initially held at Sun Microsystems. Sun Microsystems was acquired by Oracle in February 2010.)***
-***Member of a small core team responsible for resolution and monitoring of customer issues, on the senior and principal support levels, for the Oracle Communications Unified Communications Suite (formerly the Sun Java Communications Suite)
+*** Member of a small core team responsible for resolution and monitoring of customer issues, on the senior and principal support levels, for the Oracle Communications Unified Communications Suite (formerly the Sun Java Communications Suite)
 
 - Supported and advised end-users for issues and training on email servers, calendar servers, web servers, application servers, LDAP servers, web application software, and identity management.
 - Lead cross-functional team projects on escalation management, trouble-ticketing implementation, and knowledge management.
@@ -82,10 +83,10 @@ Reason for Departure:  department restructure / better opportunity**
 - Developed, edited and presented in-depth product technical training sessions to staff.
 
 **Product Technical Support Engineer
-Sun Microsystems        Location:  Broomfield, CO
-Dates of Employment:  June 2004 – October 2006
-Reason for Departure:  department restructure / better opportunity
-***Member of small team that provided Tier 3 (backline) support responsible for resolution and monitoring for customer issues for StarOffice, OpenOffice, and the Sun Java Desktop System
+** Sun Microsystems        Location:  Broomfield, CO
+** Dates of Employment:  June 2004 – October 2006
+** Reason for Departure:  department restructure / better opportunity
+*****Member of small team that provided Tier 3 (backline) support responsible for resolution and monitoring for customer issues for StarOffice, OpenOffice, and the Sun Java Desktop System
 
 - Supported and advised end-users for issues and training on application deployment, desktop support, document recovery, document formatting, and the StarOffice/OpenOffice API.
 - Served as one of two primary technical liaisons for product support within the western hemisphere / Americas.
@@ -96,9 +97,9 @@ Reason for Departure:  department restructure / better opportunity
 
 
 **Systems Technologist
-Sun Microsystems        Location:  Broomfield, CO
-Dates of Employment:  December 2000 – June 2004
-Reason for Departure:  better opportunity**
+**Sun Microsystems        Location:  Broomfield, CO
+**Dates of Employment:  December 2000 – June 2004
+**Reason for Departure:  better opportunity\*\*
 ***Member of an organization providing 24X7 support for Sun Microsystems internal users
 
 - Provided frontline and backline support for Sun Remote Access Services – Modem Pools, DSL, ISDN, VPN, and sun.net.  Contacted outside vendor for customer, when needed.
@@ -112,10 +113,10 @@ Reason for Departure:  better opportunity**
 
 
 **Systems Engineer
-Allegiance Telecom        Location:  Bethesda, MD
-Dates of Employment: January 1999 – December 2000
-Reason for Departure:  Moved to Colorado**
-***Member of core team responsible for internal infrastructure management and support***
+**Allegiance Telecom        Location:  Bethesda, MD
+**Dates of Employment: January 1999 – December 2000
+**Reason for Departure:  Moved to Colorado\*\*
+*****Member of core team responsible for internal infrastructure management and support***
 
 - Installed, configured, and administered Solaris 2.6 on desktops and servers.
 - Administered mail system, backup servers, web servers, DNS servers.
@@ -127,10 +128,10 @@ Reason for Departure:  Moved to Colorado**
 
 
 **Assistant Director of MIS
-Margeotes, Fertitta, and Partners      Location:  New York, NY
-Dates of Employment:  July 1998 – December 1998
-Reason for Departure:   better opportunity / relocation to Washington, DC metro area
-***Served as a member of core team responsible for systems management and user support
+** Margeotes, Fertitta, and Partners      Location:  New York, NY
+** Dates of Employment:  July 1998 – December 1998
+** Reason for Departure:   better opportunity / relocation to Washington, DC metro area
+*****Served as a member of core team responsible for systems management and user support
 
 - Installed system software/configured new machines from vendor (Apple Macintosh systems).
 - Administered company mail server, backup server, and file/database servers (Apple Macintosh and Windows NT) for a network of approximately 100 users.
@@ -138,12 +139,13 @@ Reason for Departure:   better opportunity / relocation to Washington, DC metro 
 
 
 **Assistant to the Publisher of the Sciences
-Columbia University Press       Location:  New York, NY
-Dates of Employment:  May 1995-June 1998
-***Reason for Departure:  better opportunity 
+**Columbia University Press       Location:  New York, NY
+**Dates of Employment:  May 1995-June 1998
+**Reason for Departure:  better opportunity 
+*****Provided editorial and administrative duties for an academic press
 
-Provided editorial and administrative duties for an academic press
 - Supervised manuscripts throughout publishing process – prepared project proposals, contracts, and financial profit-and-loss charts.
 - Assisted senior staff with online development and execution of an electronic publishing grant sponsored by National Science Foundation
 - Ensured projects were delivered on-time and as per budget.
 - Supervised student interns and related staff.
+

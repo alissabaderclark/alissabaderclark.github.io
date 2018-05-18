@@ -1,7 +1,7 @@
 # About Me
 I'm a technical writer based out of Denver, Colorado. In my career, I've regularly interfaced with Product, Engineering, QA, Training, and Customer Support/Operations organizations. It's always been my pleasure (and challenge!) to ensure that every deliverable I write is understandable and consumable to the targeted audience.   
 
-You can see some of my work at the following:
+You can see some of my published work at the following:
 - [Layer3 TV Customer Portal Documentation](https://help.layer3tv.com/hc/en-us/articles/229474968-Customer-Portal-walkthrough)
 - [Layer3 TV Cable Box Documentation](https://help.layer3tv.com/hc/en-us/categories/204100787-Cable-box)
 - [Layer3 TV Alexa and Google Home Documentation](https://help.layer3tv.com/hc/en-us/categories/115001614628-Voice-control)

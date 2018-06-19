@@ -11,5 +11,5 @@ You can see some of my published work at the following:
 
 See [some of my work adapted for GitBook](https://alissabaderclark.gitbook.io/new-portfolio-and-examples/).
 
-You can also [view my resume](https://www.dropbox.com/s/yatk7pszz6lh5fv/aclark-resume-for-dropbox.doc?dl=0). Or send me an [email](mailto:alissabaderclark@gmail.com).
+You can also [view my resume](https://www.dropbox.com/s/rrjxrccf7km3g3i/aclark-resume-latest.doc?dl=0). Or send me an [email](mailto:alissabaderclark@gmail.com).
 
